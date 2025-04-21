@@ -1,6 +1,6 @@
 # robo-atendimento-imperio
 
-# 🤖 Robô de Atendimento - Império das Canecas BH
+# 🤖 Robô de Atendimento - Super Canecas 
 
 Este projeto é um sistema inteligente de **automação de atendimento via WhatsApp**, desenvolvido em Python. Ele simula conversas com clientes, gera relatórios gráficos de desempenho **antes e depois** da automação, organiza logs, envia mensagens via WhatsApp e opera automaticamente **fora do horário comercial**.
 
